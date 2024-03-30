@@ -1,4 +1,4 @@
-### Hi there 👋I'm Manikanta chowdary, a B.Tech student specializing in Artificial Intelligence and Data Science, with a passion for coding in HTML, CSS, and Python.
+Hi there 👋I'm Manikanta chowdary, a B.Tech student specializing in Artificial Intelligence and Data Science, with a passion for coding in HTML, CSS, and Python.
 
 -🔭 I’m currently working on mastering my skills in AI and data science.
 -🌱 I’m currently learning advanced machine learning techniques.
