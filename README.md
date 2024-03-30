@@ -9,4 +9,4 @@ I'm Manikanta chowdary, a B.Tech student specializing in Artificial Intelligence
 
 -👯 I’m looking to collaborate on projects related to AI, data science, and web development.
 
--💬 Ask me about AI, data science, or coding in HTML, CSS, and Python
+-💬 Ask me about AI, data science, or coding in HTML, CSS, and Python.
